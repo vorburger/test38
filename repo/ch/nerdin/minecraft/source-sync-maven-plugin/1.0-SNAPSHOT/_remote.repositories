@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 08:43:10 CET 2017
+source-sync-maven-plugin-1.0-SNAPSHOT.jar>=
+source-sync-maven-plugin-1.0-SNAPSHOT.pom>=
